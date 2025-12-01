@@ -5,7 +5,9 @@ Multi-category sales dataset: 239 transactions, $80,507.87 revenue, 516 units ac
 Interactive **Excel dashboard** analyzing multi-category sales across regions, products, and payment methods. Combines **Pivot Tables**, **Charts**, and **Slicers** for dynamic sales trend analysis and revenue insights.
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](sales_-excel-dashboard.png) 
+
+<img width="1265" height="457" alt="image" src="https://github.com/user-attachments/assets/3178e1a1-6938-4d5b-8b9b-6f97e7dcbd6b" />
+ 
 
 ## ✅ Key Highlights
 - 💰 **Total Revenue Cards** — $80,507.87 total revenue, 516 units sold 
