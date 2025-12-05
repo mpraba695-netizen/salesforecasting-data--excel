@@ -1,4 +1,4 @@
-# salesforecasting-data--excel
+# Salesforecasting data(Excel)
 Multi-category sales dataset: 239 transactions, $80,507.87 revenue, 516 units across Electronics ($34,982), Clothing, Books in North America/Europe/Asia. Columns: Transaction ID, Date, Category, Product, Units, Price, Revenue, Region, Payment. Perfect for pivot analysis &amp; regional trends.
 # 🛒 Sales Performance Dashboard (Excel)
 
